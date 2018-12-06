@@ -1,0 +1,539 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"TourLeadr",
+				"TourLeadersController"
+			],
+			[
+				"TourLeader",
+				"TourLeadersController"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"tour_",
+				"tour_schedules_id"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"alert",
+				"alert error\tBootstrapper: Alert::error('message')"
+			],
+			[
+				"fa-pro",
+				"mdi-face-profile\t<i>"
+			],
+			[
+				"example",
+				"exampleModalLabel"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"tex",
+				"text-align\tproperty"
+			],
+			[
+				"te",
+				"text-align\tproperty"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"dataTables",
+				"dataTables-example"
+			],
+			[
+				"aria",
+				"aria-controls\tAccessbility"
+			],
+			[
+				"datatable",
+				"dataTables-example"
+			],
+			[
+				"fa-tra",
+				"fas-trash\t<i>"
+			],
+			[
+				"fa-c",
+				"far-circle\t<i>"
+			],
+			[
+				"loca",
+				"location"
+			],
+			[
+				"lo",
+				"location"
+			],
+			[
+				"req",
+				"request"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"boyd",
+				"Body"
+			],
+			[
+				"btn",
+				"btn-close"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"re",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 206.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/MKH/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/D/htdocs/themighty/resources/views/admin/users/index.blade.php",
+		"/D/htdocs/themighty/database/migrations/2018_07_18_024006_create_tour_leaders_table.php",
+		"/D/htdocs/gopeek/resources/views/admin/blogs/edit.blade.php",
+		"/D/htdocs/gopeek/routes/web.php",
+		"/D/htdocs/themighty/database/migrations/2018_07_18_024106_create_specialists_table.php",
+		"/D/htdocs/themighty/app/Specialist.php",
+		"/D/htdocs/themighty/resources/views/admin-layouts/nav.blade.php",
+		"/D/htdocs/themighty/app/Http/Controllers/Admin/TourSchedulesController.php",
+		"/D/htdocs/themighty/resources/views/admin/schedules/edit.blade.php",
+		"/D/htdocs/themighty/app/TourLeader.php",
+		"/D/htdocs/themighty/app/BlogHeader.php",
+		"/D/htdocs/themighty/resources/views/admin-layouts/master.blade.php",
+		"/D/htdocs/themighty/app/Http/Controllers/Admin/UsersController.php",
+		"/D/htdocs/themighty/resources/views/admin/schedules/create.blade.php",
+		"/D/htdocs/themighty/app/Http/Controllers/Admin/BlogsController.php",
+		"/D/htdocs/themighty/resources/views/admin/schedules/show.blade.php",
+		"/D/htdocs/themighty/resources/views/admin/schedules/delete.blade.php",
+		"/D/htdocs/themighty/resources/views/admin/schedules/index.blade.php",
+		"/D/htdocs/themighty/resources/views/admin/packages/index.blade.php",
+		"/D/htdocs/themighty/resources/views/admin/packages/edit.blade.php",
+		"/D/htdocs/themighty/resources/views/admin/packages/create.blade.php",
+		"/D/htdocs/themighty/resources/views/admin/users/edit.blade.php",
+		"/D/htdocs/themighty/resources/views/admin/users/create.blade.php",
+		"/D/htdocs/themighty/remove.php",
+		"/D/htdocs/themighty/resources/views/admin/categories/index.blade.php",
+		"/D/htdocs/themighty/resources/views/admin/blogs/index.blade.php",
+		"/D/htdocs/themighty/resources/views/admin/categories/edit.blade.php",
+		"/D/htdocs/themighty/resources/views/admin/categories/create.blade.php",
+		"/D/htdocs/themighty/resources/views/admin/blogs/edit.blade.php",
+		"/D/htdocs/themighty/resources/views/admin/blogs/create.blade.php",
+		"/D/htdocs/themighty/resources/views/admin-layouts/header.blade.php",
+		"/D/htdocs/themighty/resources/views/admin-layouts/footer.blade.php",
+		"/D/htdocs/themighty/app/ScheduleImage.php",
+		"/D/htdocs/themighty/routes/web.php",
+		"/D/htdocs/themighty/.env.example",
+		"/D/htdocs/themighty/app/TourSchedule.php",
+		"/D/htdocs/themighty/app/Blog.php",
+		"/D/htdocs/themighty/public/ public/images/schedules/download.jpg",
+		"/D/htdocs/themighty/vendor/laravel/framework/src/Illuminate/Foundation/Testing/WithoutEvents.php",
+		"/D/htdocs/themighty/.env",
+		"/D/htdocs/themighty/resources/views/admin/users/show.blade.php",
+		"/D/htdocs/themighty/app/Http/Controllers/Admin/TourPackagesController.php",
+		"/D/htdocs/themighty/database/migrations/2018_07_12_033928_create_schedule_images_table.php",
+		"/D/htdocs/themighty/app/TourPackage.php",
+		"/D/htdocs/themighty/database/migrations/2018_07_12_033601_create_tour_schedules_table.php",
+		"/D/htdocs/themighty/vendor/monolog/monolog/src/Monolog/Processor/TagProcessor.php",
+		"/D/htdocs/themighty/vendor/laravel/framework/src/Illuminate/Foundation/Auth/ResetsPasswords.php",
+		"/D/htdocs/themighty/resources/views/dashboard.blade.php",
+		"/D/htdocs/themighty/app/Http/Controllers/AdminUserController.php",
+		"/D/htdocs/themighty/app/Http/Controllers/Auth/RegisterController.php",
+		"/D/htdocs/themighty/resources/views/admin/users.blade.php",
+		"/D/htdocs/themighty/resources/views/auth/register.blade.php",
+		"/D/htdocs/themighty/resources/views/admin/packages/show.blade.php",
+		"/D/htdocs/themighty/vendor/hamcrest/hamcrest-php/tests/Hamcrest/MatcherAssertTest.php",
+		"/D/htdocs/themighty/database/migrations/2018_07_10_094920_create_admin_users_table.php",
+		"/D/htdocs/themighty/app/Http/Controllers/Admin/AdminUserController.php",
+		"/D/htdocs/themighty/bootstrap/app.php",
+		"/D/htdocs/themighty/resources/views/layouts/app.blade.php",
+		"/D/htdocs/mighty/database/migrations/2018_07_10_032157_create_tour_packages_table.php",
+		"/D/htdocs/mighty/resources/views/admin/categories/create.blade.php",
+		"/D/htdocs/mighty/resources/views/admin/blogs/index.blade.php",
+		"/D/htdocs/mighty/resources/views/admin-layouts/nav.blade.php",
+		"/D/htdocs/mighty/app/Http/Controllers/Admin/BlogsController.php",
+		"/D/htdocs/mighty/resources/views/admin/packages/edit.blade.php",
+		"/D/htdocs/mighty/app/TourCategory.php",
+		"/D/htdocs/mighty/app/TourPackage.php",
+		"/D/htdocs/mighty/resources/views/admin/categories/index.blade.php",
+		"/D/htdocs/mighty/resources/views/admin/packages/index.blade.php",
+		"/D/htdocs/mighty/resources/views/admin-layouts/header.blade.php",
+		"/D/htdocs/mighty/resources/views/admin-layouts/master.blade.php",
+		"/D/htdocs/mighty/resources/views/admin/blogs/edit.blade.php",
+		"/D/htdocs/mighty/resources/views/admin/blogs/create.blade.php",
+		"/D/htdocs/mighty/app/Http/Controllers/Admin/ToursController.php",
+		"/D/htdocs/mighty/resources/views/admin/blogs/show.blade.php",
+		"/D/htdocs/mighty/resources/views/admin/blogs/post.blade.php",
+		"/D/htdocs/mighty/resources/views/admin/blogs/posts.blade.php",
+		"/D/htdocs/mighty/resources/views/admin/categories/show.blade.php",
+		"/D/htdocs/gopeek/resources/views/admin/blogs/index.blade.php",
+		"/D/htdocs/mighty/resources/views/admin/categories/edit.blade.php",
+		"/D/htdocs/gopeek/resources/views/admin/blogs/show.blade.php",
+		"/D/htdocs/mighty/app/Blog.php",
+		"/D/htdocs/mighty/app/BlogHeader.php",
+		"/D/htdocs/mighty/database/migrations/2018_07_05_065523_create_blog_headers_table.php",
+		"/D/htdocs/mighty/database/migrations/2018_07_05_065636_create_blogs_table.php",
+		"/D/htdocs/gopeek/app/Http/Controllers/Admin/blog/BlogController.php",
+		"/D/htdocs/gopeek/resources/views/admin/location/edit.blade.php",
+		"/D/htdocs/gopeek/resources/views/admin/location/show.blade.php",
+		"/D/htdocs/gopeek/app/BlogHeader.php",
+		"/D/htdocs/gopeek/resources/views/admin/blogs/create.blade.php",
+		"/D/htdocs/gopeek/app/Blog.php",
+		"/D/htdocs/mighty/resources/views/categories/create.blade.php",
+		"/D/htdocs/mighty/resources/views/categories/index.blade.php",
+		"/D/htdocs/mighty/database/migrations/2018_07_04_083306_create_tests_table.php",
+		"/D/htdocs/gopeek/app/Http/Controllers/Admin/location/LocationController.php",
+		"/D/htdocs/mighty/resources/views/categories/edit.blade.php",
+		"/D/htdocs/mighty/resources/views/categories/show.blade.php",
+		"/D/htdocs/mighty/resources/views/dashboard.blade.php",
+		"/D/htdocs/mighty/app/Http/Controllers/ToursController.php",
+		"/D/htdocs/mighty/resources/views/admin-layouts/dashboard.blade.php",
+		"/D/htdocs/gopeek/resources/views/admin/location/index.blade.php",
+		"/D/htdocs/mighty/resources/views/cateogries/index.blade.php",
+		"/D/htdocs/mighty/config/database.php",
+		"/D/htdocs/mighty/database/migrations/2014_10_12_100000_create_password_resets_table.php",
+		"/D/htdocs/mighty/resources/views/test/testing.blade.php",
+		"/D/htdocs/mighty/app/Providers/AppServiceProvider.php",
+		"/D/htdocs/mighty/database/migrations/2018_07_04_094236_create_tour_categories_table.php",
+		"/D/htdocs/mighty/.env",
+		"/D/htdocs/mighty/database/migrations/2018_07_04_083034_create_users_table.php",
+		"/D/htdocs/gopeek/resources/views/layouts/admin.blade.php",
+		"/D/startbootstrap-sb-admin-2-gh-pages/pages/grid.html",
+		"/D/htdocs/mighty/resources/views/admin-layouts/notification.blade.php",
+		"/D/htdocs/mighty/resources/views/admin-layouts/dashboard.php",
+		"/D/startbootstrap-sb-admin-2-gh-pages/index.html",
+		"/D/htdocs/mighty/resources/views/admin-layouts/index.blade.php",
+		"/D/htdocs/mighty/resources/views/admin-layouts/tables.blade.php",
+		"/D/htdocs/mighty/resources/views/admin-layouts/charts.blade.php",
+		"/D/htdocs/mighty/resources/views/admin-layouts/form.blade.php",
+		"/D/htdocs/mighty/resources/views/admin-layouts/panel.blade.php",
+		"/D/htdocs/mighty/resources/views/admin-layouts/navbar-header.blade.php",
+		"/D/htdocs/gopeek/resources/views/admin/location/create.blade.php",
+		"/F/Project Code for work/gopeek/database/migrations/2018_07_02_073847_create_locations_table.php",
+		"/D/htdocs/gopeek/app/Location.php",
+		"/D/htdocs/gopeek/.env",
+		"/D/htdocs/gopeek/database/migrations/2018_07_02_073847_create_locations_table.php",
+		"/D/htdocs/gopeek/webpack.mix.js",
+		"/D/htdocs/gopeek/tests/CreatesApplication.php"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 158.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 78.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "app.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"nav",
+				"resources\\views\\admin-layouts\\nav.blade.php"
+			],
+			[
+				"user",
+				"app\\Http\\Controllers\\Admin\\UsersController.php"
+			],
+			[
+				"web",
+				"routes\\web.php"
+			],
+			[
+				"",
+				"resources\\views\\admin\\tourleaders\\index.blade.php"
+			],
+			[
+				"index",
+				"resources\\views\\admin\\tourleaders\\index.blade.php"
+			],
+			[
+				"edit",
+				"resources\\views\\admin\\tourleaders\\edit.blade.php"
+			],
+			[
+				"show",
+				"resources\\views\\admin\\tourleaders\\show.blade.php"
+			],
+			[
+				"index.b",
+				"resources\\views\\admin\\tourleaders\\index.blade.php"
+			],
+			[
+				"bl",
+				"app\\Http\\Controllers\\Admin\\BlogsController.php"
+			],
+			[
+				"blogs",
+				"app\\Http\\Controllers\\Admin\\BlogsController.php"
+			],
+			[
+				"tourlea",
+				"app\\Http\\Controllers\\Admin\\TourLeadersController.php"
+			],
+			[
+				"ma",
+				"resources\\views\\admin-layouts\\master.blade.php"
+			],
+			[
+				"blog",
+				"app\\Http\\Controllers\\Admin\\BlogsController.php"
+			],
+			[
+				"mas",
+				"resources\\views\\admin-layouts\\master.blade.php"
+			],
+			[
+				"f",
+				"resources\\views\\admin-layouts\\footer.blade.php"
+			],
+			[
+				"footer",
+				"resources\\views\\admin-layouts\\footer.blade.php"
+			],
+			[
+				"head",
+				"resources\\views\\admin-layouts\\header.blade.php"
+			],
+			[
+				"tours",
+				"app\\Http\\Controllers\\Admin\\TourSchedulesController.php"
+			],
+			[
+				"toursc",
+				"app\\TourSchedule.php"
+			],
+			[
+				"wev",
+				"vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Testing\\WithoutEvents.php"
+			],
+			[
+				"tour",
+				"app\\Http\\Controllers\\Admin\\TourPackagesController.php"
+			],
+			[
+				"tp",
+				"vendor\\monolog\\monolog\\src\\Monolog\\Processor\\TagProcessor.php"
+			],
+			[
+				"we",
+				"routes\\web.php"
+			],
+			[
+				"na",
+				"resources\\views\\admin-layouts\\nav.blade.php"
+			],
+			[
+				"mast",
+				"resources\\views\\admin-layouts\\master.blade.php"
+			],
+			[
+				"masset",
+				"vendor\\hamcrest\\hamcrest-php\\tests\\Hamcrest\\MatcherAssertTest.php"
+			],
+			[
+				"app.bl",
+				"resources\\views\\layouts\\app.blade.php"
+			],
+			[
+				"app",
+				"bootstrap\\app.php"
+			],
+			[
+				"master",
+				"resources\\views\\admin-layouts\\master.blade.php"
+			],
+			[
+				"toru",
+				"app\\Http\\Controllers\\TourCategoriesController.php"
+			],
+			[
+				"dat",
+				"config\\database.php"
+			],
+			[
+				"locationco",
+				"app\\Http\\Controllers\\Admin\\location\\LocationController.php"
+			],
+			[
+				"blogcon",
+				"app\\Http\\Controllers\\Admin\\blog\\BlogController.php"
+			],
+			[
+				"cre",
+				"resources\\views\\admin\\blogs\\create.blade.php"
+			],
+			[
+				"create",
+				"resources\\views\\admin\\blogs\\create.blade.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 256.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

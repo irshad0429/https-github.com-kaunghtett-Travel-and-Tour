@@ -1,0 +1,66 @@
+@media screen and (max-width: 767px) {
+    .float ul li:nth-child(1) {
+        display: none;
+   }
+    .float {
+        font-size: 24.5px;
+        height: 40px;
+        position: fixed;
+        left: 0px;
+        bottom: -1px;
+        z-index: 999;
+        top: inherit;
+        width: 100%;
+        background: #ee314a;
+   }
+    .float ul {
+        padding: 0px;
+   }
+    .float ul li {
+        list-style-type: none;
+        float: left;
+        width: 16.5999%;
+        text-align: center;
+   }
+    .icon-float ul li a {
+        display: block;
+        -webkit-transition: all 0.5s ease;
+        -moz-transition: all 0.5s ease;
+        -o-transition: all 0.5s ease;
+        transition: all 0.5s ease;
+        padding: 0px;
+   }
+    .float ul li a i {
+        padding: 8px;
+        width: 40px;
+        height: 32px;
+        text-align: center;
+        color: #fff;
+   }
+
+   .float a {
+
+    height: 50px;
+    margin-left: 43%;
+    font-weight:650;
+    color: white;
+
+   }
+
+   .hotel-gal-arr {
+
+    margin-left: -74%;
+    margin-top: 176%;
+    position: absolute;
+    background: rgb(0, 193, 255);
+    width: 32px;
+    height: 32px;
+    padding: 4px;
+    text-align: center;
+    border-radius: 2px;
+    left: 24px;
+    font-size: 24px
+   }
+
+}
+
